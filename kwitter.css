@@ -8,6 +8,16 @@ body
 {
 background-image: linear-gradient(to right top, #f13333, #d96725, #c12c18, #aa450a, #940000);
 }
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.button {
+color: goldenrod;
+}
+
 .header
 {
 	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
